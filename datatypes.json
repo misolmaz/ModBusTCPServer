@@ -1,0 +1,14 @@
+{
+    "fields": [
+        {"name": "Veri 1", "type": "CHAR", "length": 18, "offset": 0},
+        {"name": "Veri 2", "type": "CHAR", "length": 40, "offset": 18},
+        {"name": "Veri 3", "type": "CHAR", "length": 2, "offset": 58},
+        {"name": "Veri 4", "type": "CHAR", "length": 2, "offset": 60},
+        {"name": "Veri 5", "type": "DECIMAL", "length": 5.2, "offset": 62},
+        {"name": "Veri 6", "type": "DECIMAL", "length": 5.2, "offset": 63},
+        {"name": "Veri 7", "type": "DECIMAL", "length": 1.0, "offset": 64},
+        {"name": "Veri 8", "type": "CHAR", "length": 4, "offset": 65},
+        {"name": "Veri 9", "type": "NCHAR", "length": 7, "offset": 69}
+    ]
+}
+git
