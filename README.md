@@ -53,3 +53,4 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 - **Closed missing markdown syntax issues.**
 - **Properly formatted command blocks for better readability.**
 - **Added a 'Running the Server' section for clarity.**
+ 
