@@ -37,7 +37,7 @@ python ModBusTCPServer.py
 ## 📝 Author
 
 **👤 Mehmet Solmaz, PhD**  
-📧 **Email:** mehmet@example.com  
+📧 **Email:** misolmaz@hotmail.com 
 🔗 **GitHub:** [misolmaz](https://github.com/misolmaz)  
 🔗 **LinkedIn:** [linkedin.com/in/mehmetsolmaz](https://linkedin.com/in/mehmetsolmaz)  
 
